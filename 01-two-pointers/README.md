@@ -63,4 +63,5 @@ ALL CHECKS PASSED
 - The random test covers arrays of 0 to 7 values between −10 and 10. That's good at catching logic errors and duplicate-value cases, but it isn't a proof. The proof is the argument above.
 - It returns 0-based indices, while LeetCode 167 expects 1-based.
 
-LinkedIn post: _add the link here once it's published_
+LinkedIn post: https://lnkd.in/p/dxuDxP_P
+
