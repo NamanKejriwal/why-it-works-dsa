@@ -1,4 +1,4 @@
-# 04: Why next greater element needs a stack
+# Extra: Why next greater element needs a stack
 
 Part of **Why It Works**, a series about why a solution works, when it applies and how it breaks.
 
